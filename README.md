@@ -1,2 +1,3 @@
-# FurUniversitat
-All miscellaneous work stuff for my university
+# FurUniversitat 
+(its almost deutsch for 'for university')  
+This repo contains university related random stuff
